@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1561637294 source:c:\users\coe127l-b1-24\desktop\gittest\test\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Game.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561637427 c:\users\coe127l-b1-24\desktop\gittest\test\include\game.h
+	<string>
+	<string.h>
+	"Player.h"
+	<iostream>
+
+1561636924 source:c:\users\coe127l-b1-24\desktop\gittest\test\src\game.cpp
+	"Game.h"
+	"Player.h"
+
+1561636399 c:\users\coe127l-b1-24\desktop\gittest\test\include\player.h
+	<string.h>
+	<string>
+
+1561636935 source:c:\users\coe127l-b1-24\desktop\gittest\test\src\player.cpp
+	"Player.h"
+	<fstream>
+	<string>
+	<iostream>
+
